@@ -1,0 +1,9 @@
+{
+  "name": "my-proxy-server",
+  "version": "1.0.0",
+  "description": "A simple proxy server for Render.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
